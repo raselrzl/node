@@ -3,6 +3,7 @@
 	"author": "Rasel Miah",
 	"description": "This project is an awsome project",
 	"keywords": [ "Rasel", "Zeras", "freecodecamp" ],
+	"license": "LBH",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
